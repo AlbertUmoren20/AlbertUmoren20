@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi🤗👋, I'm Umoren Albert</h1>
+<h1 align="center">Hi🤗👋, I'm Albert Umoren </h1>
 <h3 align="center">A passionate Full stack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertumoren20&label=Profile%20views&color=0e75b6&style=flat" alt="albertumoren20" /> </p>
