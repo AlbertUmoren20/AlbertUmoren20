@@ -14,7 +14,7 @@ Observability: Micrometer, OpenTelemetry, Grafana, Prometheus
 Docker + Kubernetes — from container to cluster
 Spring Security deep dive + Spring AI**
 
-- 👯 I’m looking to collaborate on **Cybersecurity and secure application development projects**
+- 👯 I’m looking to collaborate on **Backend projects and secure application development projects**
 
 - 🤝 I’m looking for help with **Fullstack development**
 
