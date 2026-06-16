@@ -6,9 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertumoren20" alt="albertumoren20" /></a> </p>
 
-- 🔭 I’m currently working on **Building my skills in cybersecurity, full-stack development, to become a well-rounded tech professional.😊**
+- 🔭 Hi everyone! I'm **Albert – a Java/Spring Boot developer based in Lagos, Nigeria, building payment systems and fintech infrastructure all to become a well-rounded tech professional.😊**
 
-- 🌱 I’m currently learning **Tailwind css, React**
+- 🌱 I’m currently learning **Java 21 Virtual Threads & concurrency
+Kafka in production — real patterns,
+Observability: Micrometer, OpenTelemetry, Grafana, Prometheus
+Docker + Kubernetes — from container to cluster
+Spring Security deep dive + Spring AI**
 
 - 👯 I’m looking to collaborate on **Cybersecurity and secure application development projects**
 
@@ -16,7 +20,7 @@
 
 - 💬 Ask me about **react, java**
 
-- 📫 How to reach me **officialalbert@gmail.com**
+- 📫 How to reach me **officialalberttt12@gmail.com**
 
 - ⚡ Fun fact **I think I am funny🤗**
 
